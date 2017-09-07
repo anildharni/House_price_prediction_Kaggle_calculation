@@ -1,0 +1,2 @@
+# House_price_prediction_Kaggle_calculation
+Kaggle competitions are the best places to start using your skills earned in machine learning. This notebook aims to provide the new kagglers a guideline to predict the prices of a house on the alberqueque city house prices dataset. I used label encoder to encode the features and gradient boosting algorithm to achieve percentile upward of 80. I also used random forest regressor so as to give an understanding about the difference of scores in both algorithms
